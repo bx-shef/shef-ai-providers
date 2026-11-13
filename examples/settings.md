@@ -14,7 +14,7 @@
 | Направление | Значение |
 |---|---|
 | Текст | «Свой адрес» `https://vibecode.bitrix24.tech/v1`, модель `bitrix/bitrixgpt-6.0-agent`, ключ Вайбкод вида `vibe_api_a1b2****************z9y8` |
-| Распознавание | провайдер BitrixGPT, модель `bitrix/deepdml/faster-whisper-large-v3-turbo-ct2`, тот же ключ Вайбкод |
+| Распознавание | провайдер BitrixGPT, модель `bitrix/bitrixgpt-5.6-transcribe`, тот же ключ Вайбкод |
 
 ## 3. Данные в Беларуси
 
